@@ -1,8 +1,8 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 
 .card {
-  height: 500px;
-  width: 350px;
-  
+  height: 390px;
+  width: 340px;
+  transform-origin: top center;
+  line-height: 1;
 }
-
